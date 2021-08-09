@@ -1,0 +1,23 @@
+{
+    "name": "abdeslam/kmbt",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdeslam\\KMBT\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdeslam gacemi",
+            "email": "abdobling@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
