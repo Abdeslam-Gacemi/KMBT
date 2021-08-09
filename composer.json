@@ -2,7 +2,6 @@
     "name": "abdeslam/kmbt",
     "description": "a PHP big numbers (K => thousand, M => million, B => billion, T => trillion) formater and converter.",
     "license": "MIT",
-    "version": "0.1.0",
     "autoload": {
         "psr-4": {
             "Abdeslam\\KMBT\\": "src/"
