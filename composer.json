@@ -1,6 +1,6 @@
 {
     "name": "abdeslam/kmbt",
-    "description": "a PHP big numbers (K => thousand, M => million, B => billion, T => trillion) formater and converter.",
+    "description": "a PHP big numbers (K => thousand, M => million, B => billion, T => trillion) formatter and converter.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
